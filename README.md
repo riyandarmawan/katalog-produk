@@ -1,4 +1,4 @@
-# Toko - Aplikasi Katlog Produk
+# Aplikasi Katalog Produk
 
 Aplikasi berbasis desktop untuk mengelola inventaris produk makanan dan minuman (mencatat, melihat, mengedit, dan menghapus data).
 
